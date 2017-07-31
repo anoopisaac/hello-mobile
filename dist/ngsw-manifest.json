@@ -1,0 +1,15 @@
+{
+  "static": {
+    "urls": {
+      "/polyfills.bf60006aaec36e430fd3.bundle.js": "5b1fe8e984fdcdeef3a02699d059953eacc65930",
+      "/main.2c6a0236fb9f6564252e.bundle.js": "f83886aeb40e997df73af2569aca7c365880b3ad",
+      "/sw-register.c3a9f56ebf829a0880d3.bundle.js": "6c5694fa18f55de662ff331e4d69d4521033fd80",
+      "/vendor.38b9fc82f2fe43a6db9c.bundle.js": "9854bd1101b1d4c27222810fc2247a3565932c52",
+      "/inline.ba4db39b06a8a123ba83.bundle.js": "9b4ff2b252ea174571601eb07d8f00db6a4e7f98",
+      "/styles.d41d8cd98f00b204e980.bundle.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+      "/index.html": "e1c529cc1bf3d70a0ebda211b15ac414690ca67c"
+    },
+    "_generatedFromWebpack": true
+  }
+}
